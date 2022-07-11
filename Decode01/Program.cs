@@ -1,6 +1,7 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Globalization;
+using System.IO;
 using System.Numerics;
-using System.Security.Cryptography;
 using System.Text;
 
 Console.WriteLine("Hex to Text Decode With Keyword Ex. and Hex Ex. (By OhmFn X2)");
@@ -62,3 +63,5 @@ Console.WriteLine("------------------------");
 
 Console.Write("--------- press any key ---------");
 Console.ReadKey();
+
+//By OhmFn X2
